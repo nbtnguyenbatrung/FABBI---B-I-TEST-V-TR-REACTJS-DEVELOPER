@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/master/static/css/main.1ac45e8c.css",
-    "main.js": "/master/static/js/main.beab084e.js",
-    "static/js/787.d4aba7ab.chunk.js": "/master/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/master/index.html",
-    "main.1ac45e8c.css.map": "/master/static/css/main.1ac45e8c.css.map",
-    "main.beab084e.js.map": "/master/static/js/main.beab084e.js.map",
-    "787.d4aba7ab.chunk.js.map": "/master/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/FABBI---B-I-TEST-V-TR-REACTJS-DEVELOPER/static/css/main.1ac45e8c.css",
+    "main.js": "/FABBI---B-I-TEST-V-TR-REACTJS-DEVELOPER/static/js/main.f8325d8c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/FABBI---B-I-TEST-V-TR-REACTJS-DEVELOPER/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/FABBI---B-I-TEST-V-TR-REACTJS-DEVELOPER/index.html",
+    "main.1ac45e8c.css.map": "/FABBI---B-I-TEST-V-TR-REACTJS-DEVELOPER/static/css/main.1ac45e8c.css.map",
+    "main.f8325d8c.js.map": "/FABBI---B-I-TEST-V-TR-REACTJS-DEVELOPER/static/js/main.f8325d8c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/FABBI---B-I-TEST-V-TR-REACTJS-DEVELOPER/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ac45e8c.css",
-    "static/js/main.beab084e.js"
+    "static/js/main.f8325d8c.js"
   ]
 }
